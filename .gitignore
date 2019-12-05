@@ -7,9 +7,10 @@
 
 # testing
 /coverage
-.env.development
-# production
+
+# production https://github.com/leonardhoward/react-beach-resort.git
 /build
+.env.development
 
 # misc
 .DS_Store
